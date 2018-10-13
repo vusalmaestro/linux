@@ -1,0 +1,2 @@
+# linux
+Azərbaycan dilində təlimatlar
